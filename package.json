@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint --dir src",
+    "lint": "next lint --fix --dir src",
     "format": "prettier --write ."
   },
   "dependencies": {
@@ -17,8 +17,8 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.39",
-    "@typescript-eslint/eslint-plugin": "^5.10.2",
-    "@typescript-eslint/parser": "^5.10.2",
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0",
     "eslint": "^8.8.0",
     "eslint-config-next": "^12.0.10",
     "eslint-config-prettier": "^8.3.0",
