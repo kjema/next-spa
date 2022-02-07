@@ -1,1 +1,1 @@
-# Next Typescript Starter
+# Next SPA
